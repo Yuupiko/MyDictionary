@@ -333770,7 +333770,10 @@ twosome
 twosomes
 twp
 tx
-txt
+txakoli
+txistu
+txoko
+txokos
 tzaam
 tzaddik
 tzaddikim
