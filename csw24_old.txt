@@ -185855,12 +185855,12 @@ mezzotinto
 mf
 mfd
 mfg
-mfr
-mg
 mgal
-mgd
-mgr
-mgt
+mgbo
+mgbolizhia
+mgqashiyo
+mgangas
+mganga
 mh
 mhg
 mho
@@ -197234,7 +197234,7 @@ narcotics
 narcotin
 narcotina
 narcotine
-nkosi 
+nkosi
 nkosis
 narcotinic
 narcotisation
@@ -361025,8 +361025,8 @@ vividissection
 vividity
 vividly
 sossed
-yrent 
-yreka 
+yrent
+yreka
 khyal
 khyals
 seysures
